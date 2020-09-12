@@ -1,1 +1,3 @@
-<iframe src="https://public.tableau.com/views/College-India-Rankings/Top100Univ-States?:language=en&:display_count=y&:origin=viz_share_link?:showVizHome=no&:embed=true"  width="645" height="955"></iframe>
+<div>
+  <iframe src="https://public.tableau.com/views/College-India-Rankings/Top100Univ-States?:language=en&:display_count=y&:origin=viz_share_link?:showVizHome=no&:embed=true"  width="645" height="955"></iframe>
+</div>
